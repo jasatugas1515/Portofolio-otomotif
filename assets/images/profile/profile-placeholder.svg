@@ -1,0 +1,24 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#020817"/>
+  <rect width="800" height="1000" rx="48" fill="url(#bg)"/>
+  <circle cx="600" cy="190" r="140" fill="#22D3EE" fill-opacity="0.18"/>
+  <circle cx="170" cy="780" r="160" fill="#3B82F6" fill-opacity="0.16"/>
+  <rect x="90" y="90" width="620" height="820" rx="34" fill="url(#panel)" stroke="rgba(255,255,255,0.08)"/>
+  <circle cx="400" cy="360" r="150" fill="#0F172A" stroke="#334155" stroke-width="6"/>
+  <path d="M308 329C308 281.503 346.503 243 394 243H406C453.497 243 492 281.503 492 329V360H308V329Z" fill="#1E293B"/>
+  <path d="M282 662C282 570.321 356.321 496 448 496H352C443.679 496 518 570.321 518 662V712H282V662Z" fill="#1E293B"/>
+  <path d="M238 744C238 636.857 324.857 550 432 550H368C475.143 550 562 636.857 562 744V804H238V744Z" fill="#334155"/>
+  <rect x="166" y="818" width="468" height="16" rx="8" fill="#475569"/>
+  <text x="400" y="894" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="34" text-anchor="middle">Professional Portrait Placeholder</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="90" y1="90" x2="710" y2="910" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E293B" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0F172A" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+</svg>
